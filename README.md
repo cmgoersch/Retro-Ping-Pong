@@ -1,2 +1,4 @@
 
-![alt text](image.png)# Retro-Ping-Pong
+My first steps in TypeScript
+
+![alt text](image.png)
